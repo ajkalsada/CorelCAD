@@ -5,8 +5,10 @@
 
 >[!Note]
 > In addition to its core drafting capabilities, CorelCAD provides a wide array of features that enhance the design experience. The software includes customizable toolbars and shortcuts, allowing users to optimize their workspace according to their specific workflow. With its support for dynamic blocks and layer management, users can organize their projects effectively, ensuring that complex designs remain manageable.
+
 >[!Note]
 > CorelCAD harnesses the power of advanced features like parametric drawing and custom command creation. This allows users to automate repetitive tasks and streamline their workflow, ultimately enhancing productivity. The program supports a variety of file formats, enabling seamless collaboration with others in the industry. Users can share their designs easily and integrate with other software applications, enhancing their overall project development processes.
+
 >[!Note]
 > Moreover, CorelCAD includes features such as 3D printing capabilities, enabling users to prepare their models for physical production. With built-in tools for mesh modeling and rendering, designers can create realistic visualizations of their projects, which is invaluable for client presentations and project approvals.
 
